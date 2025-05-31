@@ -1,4 +1,4 @@
-<h2 align="left">Transforming ideas into elegant, high-performance web experiences.</h2>
+<h1 align="left">Transforming ideas into elegant, high-performance web experiences.</h1>
 
 ###
 
@@ -107,13 +107,5 @@
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
 </div>
-
-###
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/swayamDev/swayamDev/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/swayamDev/swayamDev/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/swayamDev/swayamDev/output/pacman-contribution-graph.svg">
-</picture>
 
 ###
